@@ -1,33 +1,33 @@
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
-    Fill in your answer here
+    	Ans: It allows me to quickly and easily see both files which allows to spot differences quickly. If i had to look in one file and then open the otheri could forget what i had in the first file and it could lead to even more mistakes.
 
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
 
-    Fill in your answer here
+    	Ans: I would be able to look back on these files later on if ever i ran across a problem that i had in a program before, this would allow me to see how i fixed the problem. Also, it would allow me to experiment with the code without the fear of completely losing progress on the program i am working on.
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
 
-    Fill in your answer here
+    	Ans: The pros will be having every commit make sense to the users. It wouldn't 	allow changes to happen mid line and you are able to manually tag each change in the commit. The con is user error and forgetting to commit or not publishing commits at the right time.
 
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    Fill in your answer here
+   	 	Ans: I think it's the fact that Google Docs isn't really geared towards code or for people who will be editing multiple files at once. 
 
 How can you use the commands git log and git diff to view the history of files?
 
-    Fill in your answer here
+    	Ans: I can use git log to acutally view the entire history of the file and then git diff will compare two different versions to see what exactly changed in each version.
 
 How might using version control make you more confident to make changes that
 could break something?
 
-    Fill in your answer here
+    	Ans: It would allow you to make changes without worry. If you did break something you could just go back to the older version and fix it.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+   	 	Ans: I would like to use Git for when I start programming programs and making changes on the BMS website.
